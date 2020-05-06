@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>World of internet project | Diploma Journey</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="refresh" content="3">
+        <meta name="description" content="World of internet project made by us. How internet really works? Jio's small case study. Internet works due to fiber optic cable.">
+        <meta name="author" content="Akash Singh">
+        <meta name="keywords" content="diploma-journey projects, World of internet project, World of internet, fiber optic cable, how internet really works?">
+    
+        
+        <link rel="stylesheet" href="../../assests/swip/swiper.min.css"/>
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    
+        <!-- slick master -->
+        <link rel="stylesheet" href="../../assests/slick-master/slick/slick-theme.css"/>
+        <link rel="stylesheet" href="../../assests/slick-master/slick/slick.css"/>
+    
+        <link rel="stylesheet" href="../../style.css"/>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+        <!--for the fonts-->
+        <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+        <!-- Open Sans for body font -->
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <!-- Lato for Title -->
+        <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <link rel="stylesheet" href="../../assests/swip/swiper.min.css"/>
+    
+        <link rel="stylesheet" href="../../assests/cs/style.css"/>
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <section id="menu-area">
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="navbar-header">
+                            <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <!-- LOGO -->
+                            <!-- TEXT BASED LOGO -->
+
+                            <a class="navbar-brand" href="../../index.html">Diploma Journey</a>
+                            
+                            <!-- IMG BASED LOGO  -->
+                            <!-- <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="logo"></a> -->
+                        </div>
+                        <div id="navbar" class="navbar-collapse collapse">
+                            <ul id="top-menu" class="nav navbar-nav  navbar-right main-nav">
+                                <li><a href="../../index.html">Home</a></li>
+                                <li class="dropdown"><a href="../../projects.html" class="active">Our projects</a>
+                                    <!--<ul role="menu" class="sub-menu">
+                                        <li><a href="shop.html">Mobile Phones</a></li>
+										<li><a href="product-details.html">Accessories</a></li> 
+										<li><a href="checkout.html">Speakers</a></li> 
+									</ul>-->
+                                </li>
+                                <li> <a href="../../gallery-1.html">Gallery</a> </li>
+                                <li><a href="../../my-voice.html">Listen my voice</a></li>
+                                <li><a href="../../sketches.html">Sketches</a></li>
+                            </ul>
+                        </div><!--/.nav-collapse -->
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </section>
+
+    <section class="page-heading">
+        <h1>World-of-internet</h1>
+    </section>
+
+    <section class="content">
+        <div class="container">
+            <div class="outer-wrapper">
+                <div class="inner-wrapper">
+                    <div class="content-paragraph para1" id="internet-def">
+                        <h2>
+                            Internet definition
+                        </h2>
+                        <p>Internet is nothing but sharing of information such as Images, videos, audios, files etc. from one PC to another.
+                        </p>
+                        <p>Hence, Internet is free of cost because it's not needed to any amount of money to access the files on another PC.</p>
+                        <p>But, the question is that <span>Why are you paying money of Internet??</span>The answer is below...</p>
+                    </div>
+                    <div class="video">
+                        <video controls>
+                            <source src="video.mp4">
+                        </video>
+                    </div>
+                    <div class="content-paragraph para2" id="how-internet-works">
+                        <h2>How Internet Works</h2>
+                        <p>There are many people who don't know how internet works or may be they think that Internet are dependent on satellite and totally run due to satellite.</p>
+                        <p>But, It's not true, Internet are not fully dependent on satellite.In fact, 99% internet are works by <span>Fiber optic cable</span> or also known as Submarine cables.</p>
+                        <p>The information you shared on the internet or you need to access from the internet is tranferred by this fibre optic cable.It is laid under the sea level to carry out telecommunication signals from servers to different submarine-cables points.The first submarine communications cables laid begginning in the 1850s carried telegraphy traffic, establishing the first instant telecommunications links between continents, such as the first transatlantic telegraph cable which bacame operational on 16 August 1858.</p>
+                        <p>If you want to access any file or data then your request are transferred by the tier 2 or tier 3 company to the submarine cable points.After reaching to the submarine points, it select any of the available root for reach to that particular server and this is handled by the particular software.</p>
+                    </div>
+                    <div class="content-paragraph para3" id="company">
+                        <h2>Three tiers companies</h2>
+                        <p>between you and the server, where you want to access the files there are total three companies from you able to access those data.</p>
+                        <h4>Tier 1 company</h4>
+                        <p>This company laids fiber optic or submarines cable under the sea.Therefore Tier 1 company is responsible for working of internet as main works is done by this companies.But if we talked about money for internet then this comapany charges only fee for laiding these cables.</p>
+                        <p>But obviously, this cables needed more maintenance to be working.Hence tier 1 company have back-up of 2-3 cable for condition of damage of the cables.This cable have life of 25 years.</p>
+                        <h4>Tier 1 companies</h4>
+                        <ul>
+        
+                        </ul>
+                        <h3>Tier 2 company</h3>
+                        <p>Tier 1 company laids the cable upto the submarine-cables points in different countries.There are 5 submarine-point in India, in which many traffic are goes through form mumbai.From this submarine-cables points tier 2 company laids the cable to a different states of country.Which means that Tier 1 company laids the cable to different countries under sea and Tier 2 company further laids these cables to different states and cities.</p>
+                        <h3>Tier 3 company</h3>
+                        <p>This type of companies extend the serbice of tier 2 company and these companies supply the internet connection to you.List of tier-3 company in India are,</p>
+                        <ul>
+        
+                        </ul>
+                        <p>If you want any information to be access using browser that through tier 3 or tier 2 company your request is transferred to the submarines cables.</p>
+                    </div>
+                    <div class="content-paragraph para4" id="cost">
+                        <h2>Cost of Internet</h2>
+                        <p>As we talk earlier that Internet is free of cost. We pay internet cost to the tier 2 company such as Airtel Bharti Limited or tier 3 company like hathway, they gives some amount from these fee to tier 1 company.It means that internet cost is nothing but fee of sub-marines cables and also maintenance charges for that. Hence Airtel paid amount to tier 1 company for this maintenance but Relaince JIO have their won submarine cables on Africa, Asia and Europe.Hence, the server request for to this country from India is free for JIO. And it is the main reason why JIO gave the free internet earlier.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+
+    <section class="footer">
+        <div class="about-me">
+            <div class="e-mail">
+                <h2>Email: spsanga10@gmail.com</h2><hr>
+                <h2>Mobile No.: 9321858085</h2><hr>
+            </div>
+        </div>
+        <div class="social-footer">
+            <ul class="social-icons">
+                <li><a href="https://www.facebook.com/profile.php?id=100013632814153&fref=profile_friend_list&hc_location=friends_tab"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://www.instagram.com/akash_singh2512/"><i class="fa fa-instagram"></i></a></li>
+            </ul>
+        </div>
+    </section>
+</body>
+    <script src="../../assests/swip/swiper.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <!-- slick master -->
+    <script src="../../assests/slick-master/slick/slick.js"></script> 
+
+</html>
